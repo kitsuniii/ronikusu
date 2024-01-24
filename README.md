@@ -1,7 +1,7 @@
 ### Hello!👋
 
 - 🔭 I'm currently working on a gfx website!
-- 🌴 i am open on weekends!
+- 🌴 i am open on weekends! Please message me at ronix5377@gmail.com!
 - 🤔 Pronouns: they/them
 - [![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,bots,ps,powershell,py,planetscale&perline=5)](https://skillicons.dev)
 <br>
